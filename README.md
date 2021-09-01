@@ -1,1 +1,1 @@
-Repo for fample code and ideas.
+Repo for sample code and ideas.
